@@ -17,6 +17,7 @@ public class Ejercicio9NumeroNaturales {
         }
             System.out.println("La suma de los primeros " + N + " números naturales es: " + suma);
         }
+
     }
 
 
