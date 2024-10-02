@@ -1,7 +1,5 @@
 package org.example;
 
-
-
 public class Ejercicio7AreaTriangulo {
     public static void main(String[] args) {
     /*

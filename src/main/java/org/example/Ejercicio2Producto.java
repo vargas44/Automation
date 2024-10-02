@@ -1,7 +1,5 @@
 package org.example;
 
-
-
 public class Ejercicio2Producto {
     public static void main(String[] args) {
     /*

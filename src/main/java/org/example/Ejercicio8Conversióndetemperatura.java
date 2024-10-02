@@ -1,7 +1,5 @@
 package org.example;
 
-
-
 public class Ejercicio8Conversióndetemperatura {
     public static void main(String[] args) {
     /*

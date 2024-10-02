@@ -1,7 +1,5 @@
 package org.example;
 
-
-
 public class Ejercicio3NumeroParOImpar {
     public static void main(String[] args) {
     /*
